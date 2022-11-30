@@ -3,7 +3,7 @@ Un manual dirigido a personas con discapacidad visual con uso del programa NVDA 
 
 ESPECIFICANES DE COMPUTADOR
 
--Disponoble a Windows.
+-Disponible a Windows.
 
 -Este documento esta solo disponible en español.
 
